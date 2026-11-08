@@ -69,7 +69,3 @@ For **educational and CTF purposes only**. All entities are fictional.
 ## 📜 License
 
 MIT — see [LICENSE](LICENSE).
-
-
-
-## 📂 Repository Structure
